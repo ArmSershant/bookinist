@@ -1,0 +1,10 @@
+.content {
+  padding: 10px;
+  text-align: center;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

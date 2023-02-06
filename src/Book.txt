@@ -1,0 +1,9 @@
+
+    "title": "5 Languages of Love",
+    "author": "Gary Chapman",
+    "pages": "229",
+    "aboutAuthor": "Chapman is a well-known marriage counselor and director of marriage seminars. The 5 Love Languages® is one of Chapman's most popular titles, topping various bestseller charts for years, selling over twenty million copies and has been on the New York Times bestsellers list since 2007.",
+    "description": "Self Development",
+    "price": "5000",
+    "photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBuBebSFhHzFDU_t68h_h3l-Ho0FKLBd8NrNNPjatS6TBsaICk",
+    "authorPhoto": "https://process.filestackapi.com/resize=w:1200/sQxeUxnT4Sich9pTWJYn",
